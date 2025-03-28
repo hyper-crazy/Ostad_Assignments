@@ -1,1 +1,1 @@
-this is a dummy file only (need to delete after adding assignment files).
+this is a dummy file only. Need to delete after adding assignment files.
