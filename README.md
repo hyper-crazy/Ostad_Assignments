@@ -1,2 +1,3 @@
-Ostad Flutter Batch 10. /n
+Ostad Flutter Batch 10
+
 Name: Morshedul Islam Maruf
