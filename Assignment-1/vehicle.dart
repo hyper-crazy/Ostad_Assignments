@@ -17,4 +17,5 @@ abstract class Vehicle {
 
   // using getter to encapsulate _speed
   get speed => _speed;
+
 }
